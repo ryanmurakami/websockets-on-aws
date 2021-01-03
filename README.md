@@ -1,6 +1,6 @@
 # WebSockets examples with Amazon API Gateway
 
-[![Check PS5 Stock with AWS](https://img.youtube.com/vi/abt6yEca1kQ/0.jpg)](https://www.youtube.com/watch?v=abt6yEca1kQ)
+[![Working with WebSockets on AWS](https://img.youtube.com/vi/ZuoZpf3JnY8/0.jpg)](https://www.youtube.com/watch?v=ZuoZpf3JnY8)
 
 ## How to Run
 
